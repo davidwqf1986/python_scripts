@@ -1,5 +1,5 @@
 # python_scripts
 My Python Learning Scripts
->>>
-测试
->>>
+```
+print test
+```
